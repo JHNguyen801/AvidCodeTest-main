@@ -1,0 +1,2 @@
+,customer.firstname,customer.lastname,customer.address1,customer.address2,customer.city,customer.state,customer.zipcode,loaninfo.original_amount_financed,loaninfo.current_principal_balance,loaninfo.current_interest_balance,loaninfo.current_fees_balance,loaninfo.current_late_charge_balance,loaninfo.current_payoff_balance,loaninfo.next_due_date
+0,John,Smith,6995 Union Park Center Blvd.,Suite 450,Cottonwood Heights,UT,84047,16898.91,11873.31,6.1,39.28,35.28,11953.97,10/15/2022
