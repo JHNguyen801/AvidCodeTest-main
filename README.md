@@ -1,8 +1,6 @@
 
 # Avid Code Test
 
-[![Avid Acceptance GitHub Banner](./assets/GithubReadmeBanner.png)](https://avidac.com)
-
 <b>Simple Code Test</b>
 
 Create a proper python script that calls the api method = POST
